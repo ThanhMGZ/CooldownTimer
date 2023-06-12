@@ -1,0 +1,4 @@
+name: CommandCooldown
+version: '${project.version}'
+main: net.thanhmgz.commandcooldown.CommandCooldown
+api-version: 1.19
